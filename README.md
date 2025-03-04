@@ -8,5 +8,6 @@ Proyek 1 Parameter Penilaian per minggu:
 5. Mental Health in Running 5 KM Strava 20
 6. Paid Coin https://cek.in.my.id/ 20
 7. Paid QR https://insent.if.co.id/ 20
+8. GTMetrix https://gtmetrix.com/
 
 Reporting setiap senin pukul 17.00
