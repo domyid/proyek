@@ -1,10 +1,10 @@
 # Proyek 1: IT Implementor
 
 Profile luaran dari Proyek 1 berdasarkan rapat Prodi adalah sebagai IT Implementor. Proses pendidikan sebagai IT implementor di proyek ini untuk memastikan:
-A. Paham keuntungan implementasi IT pada bisnis yang berjalan
-B. Paham cara kerja tim, disiplin waktu dan working balance
-C. Paham bagaimana efisiensi keuangan dalam membangun infrastruktur IT
-D. Paham untuk mengimplementasikan web pada infrastruktur yang baik dan benar
+1. Paham keuntungan implementasi IT pada bisnis yang berjalan
+2. Paham cara kerja tim, disiplin waktu dan working balance
+3. Paham bagaimana efisiensi keuangan dalam membangun infrastruktur IT
+4. Paham untuk mengimplementasikan web pada infrastruktur yang baik dan benar
 
 ## Pra Assesment
 
