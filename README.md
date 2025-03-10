@@ -8,7 +8,7 @@ D. Paham untuk mengimplementasikan web pada infrastruktur yang baik dan benar
 
 ## Pra Assesment
 
-Sebelum memulai pengerjaan proyek 1, maka calon peserta proyek harus menyelesaikan asesment tugas sebagai berikut:
+Sebelum memulai pengerjaan proyek 1, maka calon peserta proyek harus mengerjakan soal asesment sebagai berikut:
 1. Melakukan pendaftaran di [do.my.id](https://www.do.my.id/) mengisi nama sponsor dengan nama orang tua atau wali dan wa sponsor dengan wa orang tua atau wali
 2. Membuat situs personal branding sebagai IT Implementor, yang diasses dengan hasil [GTMetrix](https://gtmetrix.com/) bernilai A
 3. Memasang google search console pada situs nomor 2, pastikan rata-rata harian pengunjung sebanyak 10 unique visitor
@@ -39,21 +39,7 @@ Ada pertanyaan jangan sungkan untuk menghubungi:
 3. Crowdfunding: gilar +62 853-1292-4192
 4. Test IQ: dafa +62 821-1725-2716
 5. Pomokit: rafi +62 822-5187-3084
-6. Do.my.id dan pelaporan mingguan: prisya +62 821-1607-9995
+6. Do.my.id dan hasil asesment: prisya +62 821-1607-9995
 
-## Bimbingan Mingguan
+Silahkan dikerjakan dengan deadline hari senin 17 Maret 2025 pukul 17.00
 
-Setiap minggu ada penilaian mingguan yang akan menjadi nilai dari Proyek 1.
-Proyek 1 Parameter Penilaian per minggu:
-1. Google Search Console 20
-2. GitHub Push score Domyikado kode ataupun buku 20
-3. Presensi Kampus 10
-4. Pomokit https://pomokit.if.co.id/ 20
-5. Mental Health in Running/Walking 3 KM Strava 20
-6. Paid Coin https://cek.in.my.id/ 20
-7. Paid QR https://insent.if.co.id/ 20
-8. GTMetrix https://gtmetrix.com/
-9.
-10.
-
-Reporting setiap senin pukul 17.00
