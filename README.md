@@ -39,7 +39,7 @@ Ada pertanyaan jangan sungkan untuk menghubungi:
 3. Crowdfunding: gilar +62 853-1292-4192
 4. Test IQ: dafa +62 821-1725-2716
 5. Pomokit: rafi +62 822-5187-3084
-6. Do.my.id dan hasil asesment: prisya +62 821-1607-9995
+6. Do.my.id serta pelaporan serta hasil asesment: prisya +62 821-1607-9995
 
 Silahkan dikerjakan dengan deadline hari senin 17 Maret 2025 pukul 17.00
 
