@@ -14,7 +14,7 @@ Sebelum memulai pengerjaan proyek 1, maka calon peserta proyek harus menyelesaik
 3. Memasang google search console pada situs nomor 2, pastikan rata-rata harian pengunjung sebanyak 10 unique visitor
 4. Pengerjaan situs harus menggunakan Source Code Manajemen Git yang sudah dipasangin oleh webhook dari do.my.id
 5. Metode belajar menggunakan teknik pomodoro, pastikan menjalankan [pomokit](https://pomokit.if.co.id/) ketika laptop digunakan untuk mengerjakan asesment ini.
-6. Untuk working balance dan mental healt yang sehat, pastikan dalam sehari minimal lari sebanyak 3 KM di rekap dengan strava di share ke bot domyikado.
+6. Untuk working balance dan mental healt yang sehat, pastikan dalam sehari minimal lari/jalan sebanyak 3 KM di rekap dengan strava di share ke bot domyikado. [Tata Cara](https://www.do.my.id/mentalhealt-strava/)
 8. Infrastruktur pembelajaran ini dibangun dari dana Crowdfunding, pastikan berkontribusi minimal seminggu sekali baik menggunakan QRIS atau menggunakan WonPay melalui link [CrowdFunding](https://www.do.my.id/crowdfunding/)
    * Dana QRIS berasal dari client atau calon client yang akan menjadi tempat studi kasus IT Implementor. Tempat studi kasus wajib terdaftar di Google Maps.
    * Dana WonPay berasal dari mining di infrastruktur client atau tim pengembang.
@@ -49,7 +49,7 @@ Proyek 1 Parameter Penilaian per minggu:
 2. GitHub Push score Domyikado kode ataupun buku 20
 3. Presensi Kampus 10
 4. Pomokit https://pomokit.if.co.id/ 20
-5. Mental Health in Running 3 KM Strava 20
+5. Mental Health in Running/Walking 3 KM Strava 20
 6. Paid Coin https://cek.in.my.id/ 20
 7. Paid QR https://insent.if.co.id/ 20
 8. GTMetrix https://gtmetrix.com/
