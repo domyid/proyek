@@ -15,7 +15,7 @@ Sebelum memulai pengerjaan proyek 1, maka calon peserta proyek harus mengerjakan
 4. Pengerjaan situs harus menggunakan Source Code Manajemen Git yang sudah dipasangin oleh webhook dari do.my.id
 5. Metode belajar menggunakan teknik pomodoro, pastikan menjalankan [pomokit](https://pomokit.if.co.id/) ketika laptop digunakan untuk mengerjakan asesment ini.
 6. Untuk working balance dan mental healt yang sehat, pastikan 2 kali dalam seminggu minimal lari/jalan sebanyak 3 KM di rekap dengan strava di share ke bot domyikado. [Tata Cara](https://www.do.my.id/mentalhealt-strava/)
-8. Infrastruktur pembelajaran ini dibangun dari dana Crowdfunding, pastikan berkontribusi minimal seminggu sekali baik menggunakan QRIS atau menggunakan WonPay melalui link [CrowdFunding](https://www.do.my.id/crowdfunding/)
+8. Infrastruktur pembelajaran ini dibangun dari dana Crowdfunding, pastikan berkontribusi minimal seminggu sekali baik menggunakan QRIS atau menggunakan [WonPay](https://www.do.my.id/mining/) melalui link [CrowdFunding](https://www.do.my.id/crowdfunding/)
    * Dana QRIS berasal dari client atau calon client yang akan menjadi tempat studi kasus IT Implementor. Tempat studi kasus wajib terdaftar di Google Maps.
    * Dana WonPay berasal dari mining di infrastruktur client atau tim pengembang.
    * Besaran tidak di tentukan, tetapi besaran ini menjadi bayangan berapa biaya untuk efisiensi keuangan dalam implementasi web proyek 1.
