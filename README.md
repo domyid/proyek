@@ -17,7 +17,7 @@ Sebelum memulai pengerjaan proyek 1, maka calon peserta proyek harus mengerjakan
 6. Untuk working balance dan mental healt yang sehat, pastikan 2 kali dalam seminggu minimal lari/jalan sebanyak 3 KM di rekap dengan strava di share ke bot domyikado. [Tata Cara](https://www.do.my.id/mentalhealt-strava/)
 8. Infrastruktur pembelajaran ini dibangun dari dana Crowdfunding, pastikan berkontribusi minimal seminggu sekali baik menggunakan QRIS atau menggunakan [WonPay](https://www.do.my.id/mining/) melalui link [CrowdFunding](https://www.do.my.id/crowdfunding/)
    * Dana QRIS berasal dari client atau calon client yang akan menjadi tempat studi kasus IT Implementor. Tempat studi kasus wajib terdaftar di Google Maps.
-   * Dana WonPay berasal dari mining di infrastruktur client atau tim pengembang.
+   * Dana WonPay berasal dari [mining](https://www.do.my.id/mining/) di infrastruktur client atau tim pengembang.
    * Besaran tidak di tentukan, tetapi besaran ini menjadi bayangan berapa biaya untuk efisiensi keuangan dalam implementasi web proyek 1.
    * Jumlah client implementor minimal 1 orang satu client, disarankan lebih agar nilai lebih maksimal.
 9. Membuat buku dasar-dasar fundamental dari bahasa pemrograman yang akan dipakai untuk membangun website proyek 1. Buku minimal 50 halaman isi diluar dari cover, kata pengantar, daftar isi, pustaka dll. Sudah di submit ke Bukupedia. Gunakan canva dalam membuat buku agar bisa maksimal ilustrasinya. 1 Buku maksimal 5 penulis boleh melibatkan dosen.Topiknya tidak dibatasi antara lain:
