@@ -6,7 +6,7 @@ Profile luaran dari Proyek 1 berdasarkan rapat Prodi adalah sebagai IT Implement
 3. Paham bagaimana efisiensi keuangan dalam membangun infrastruktur IT
 4. Paham untuk mengimplementasikan web pada infrastruktur yang baik dan benar
 
-## Pra Assesment
+## Assesment
 
 Sebelum memulai pengerjaan proyek 1, maka calon peserta proyek harus mengerjakan soal asesment sebagai berikut:
 1. Melakukan pendaftaran di [do.my.id](https://www.do.my.id/) mengisi nama sponsor dengan nama orang tua atau wali dan wa sponsor dengan wa orang tua atau wali
