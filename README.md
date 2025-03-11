@@ -35,7 +35,7 @@ Sebelum memulai pengerjaan proyek 1, maka calon peserta proyek harus mengerjakan
 
 Ada pertanyaan jangan sungkan untuk menghubungi:
 1. Strava dan mental health: Dirga +62 822-6889-5372
-2. Google Search Console: Ibrohim +62 823-0713-0592
+2. Tracker dan Google Search Console: Ibrohim +62 823-0713-0592
 3. Crowdfunding: gilar +62 853-1292-4192
 4. Test IQ: dafa +62 821-1725-2716
 5. Pomokit: rafi +62 822-5187-3084
