@@ -13,7 +13,7 @@ Sebelum memulai pengerjaan proyek 1, maka calon peserta proyek harus mengerjakan
 2. Membuat situs personal branding sebagai IT Implementor, yang diasses dengan hasil [GTMetrix](https://gtmetrix.com/) bernilai A
 3. Memasang [tracker do.my.id](http://www.do.my.id/tracker/) dan google search console pada situs nomor 2, pastikan rata-rata harian pengunjung sebanyak 10 unique visitor
 4. Pengerjaan situs harus menggunakan Source Code Manajemen Git yang sudah dipasangin oleh webhook dari do.my.id
-5. Metode belajar menggunakan teknik pomodoro, pastikan menjalankan [pomokit](http://www.do.my.id/pomokit/) ketika laptop digunakan untuk mengerjakan asesment ini.
+5. Metode belajar menggunakan teknik pomodoro, pastikan menjalankan [pomokit](http://www.do.my.id/pomokit/) ketika laptop digunakan untuk mengerjakan asesment ini, dalam seminggu maksimal 7 cycle atau 1 cycle per-hari nya untuk nilai maksimal.
 6. Untuk working balance dan mental healt yang sehat, pastikan 2 kali dalam seminggu minimal lari/jalan sebanyak 3 KM di rekap dengan strava di share ke bot domyikado. [Tata Cara](https://www.do.my.id/mentalhealt-strava/)
 8. Infrastruktur pembelajaran ini dibangun dari dana Crowdfunding, pastikan berkontribusi minimal seminggu sekali baik menggunakan QRIS atau menggunakan [WonPay](https://www.do.my.id/mining/) melalui link [CrowdFunding](https://www.do.my.id/crowdfunding/)
    * Dana QRIS berasal dari client atau calon client yang akan menjadi tempat studi kasus IT Implementor. Tempat studi kasus wajib terdaftar di Google Maps.
