@@ -11,7 +11,7 @@ Profile luaran dari Proyek 1 berdasarkan rapat Prodi adalah sebagai IT Implement
 Sebelum memulai pengerjaan proyek 1, maka calon peserta proyek harus mengerjakan soal asesment sebagai berikut:
 1. Melakukan pendaftaran di [do.my.id](https://www.do.my.id/) mengisi nama sponsor dengan nama orang tua atau wali dan wa sponsor dengan wa orang tua atau wali
 2. Membuat situs personal branding sebagai IT Implementor, yang diasses dengan hasil [GTMetrix](https://gtmetrix.com/) bernilai A
-3. Memasang google search console pada situs nomor 2, pastikan rata-rata harian pengunjung sebanyak 10 unique visitor
+3. Memasang [tracker do.my.id](http://www.do.my.id/tracker/) dan google search console pada situs nomor 2, pastikan rata-rata harian pengunjung sebanyak 10 unique visitor
 4. Pengerjaan situs harus menggunakan Source Code Manajemen Git yang sudah dipasangin oleh webhook dari do.my.id
 5. Metode belajar menggunakan teknik pomodoro, pastikan menjalankan [pomokit](http://www.do.my.id/pomokit/) ketika laptop digunakan untuk mengerjakan asesment ini.
 6. Untuk working balance dan mental healt yang sehat, pastikan 2 kali dalam seminggu minimal lari/jalan sebanyak 3 KM di rekap dengan strava di share ke bot domyikado. [Tata Cara](https://www.do.my.id/mentalhealt-strava/)
