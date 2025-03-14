@@ -20,7 +20,7 @@ Sebelum memulai pengerjaan proyek 1, maka calon peserta proyek harus mengerjakan
    * Dana WonPay berasal dari [mining](https://www.do.my.id/mining/) di infrastruktur client atau tim pengembang.
    * Besaran tidak di tentukan, tetapi besaran ini menjadi bayangan berapa biaya untuk efisiensi keuangan dalam implementasi web proyek 1.
    * Jumlah client implementor minimal 1 orang satu client, disarankan lebih agar nilai lebih maksimal.
-   * Untuk jumlah besar fee nya jika menggunakan WonPay diatur menjadi 0.0226 dengan cara seperti ini [Fee](https://www.do.my.id/fee-transaction/)
+   * Untuk jumlah besar fee nya jika menggunakan WonPay diatur menjadi 0.0226 (jumlah dapat berubah sewaktu waktu) dengan cara seperti ini [Fee](https://www.do.my.id/fee-transaction/)
 9. Membuat buku dasar-dasar fundamental dari bahasa pemrograman yang akan dipakai untuk membangun website proyek 1. Buku minimal 50 halaman isi diluar dari cover, kata pengantar, daftar isi, pustaka dll. Sudah di submit ke Bukupedia. Gunakan canva dalam membuat buku agar bisa maksimal ilustrasinya. 1 Buku maksimal 5 penulis boleh melibatkan dosen.Topiknya tidak dibatasi antara lain:
    * HTML 5
    * CSS 5/6
