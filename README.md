@@ -31,7 +31,7 @@ Sebelum memulai pengerjaan proyek 1, maka calon peserta proyek harus mengerjakan
    * Kotlin / Ioniq / React Native
    * React
    * dll..
-10. Melakukan [test IQ](http://www.do.my.id/testiq/), sebelum melakukan test IQ, kalian wajib untuk login terlebih dahulu di [do my id](http://www.do.my.id/testiq/), setelah login kalian baru bisa untuk melakukan test IQ, selamat mengerjakan
+10. Melakukan [test IQ](http://www.do.my.id/testiq/), sebelum melakukan test IQ, kalian wajib untuk login terlebih dahulu di [do my id](http://www.do.my.id/), setelah login kalian baru bisa untuk melakukan test IQ, selamat mengerjakan
 11. Presensi Kampus Masuk dan Pulang menggunakan bot domyikado
 
 Ada pertanyaan jangan sungkan untuk menghubungi:
