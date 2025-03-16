@@ -24,14 +24,14 @@ Sebelum memulai pengerjaan proyek 1, maka calon peserta proyek harus mengerjakan
 9. Membuat buku dasar-dasar fundamental dari bahasa pemrograman yang akan dipakai untuk membangun website proyek 1. Buku minimal 50 halaman isi diluar dari cover, kata pengantar, daftar isi, pustaka dll. Sudah di submit ke Bukupedia. Gunakan canva dalam membuat buku agar bisa maksimal ilustrasinya. 1 Buku maksimal 5 penulis boleh melibatkan dosen.Topiknya tidak dibatasi antara lain:
    * HTML 5
    * CSS 5/6
-   * JS ES Module
+   * JS ES Module+
    * PHP
    * Python
    * Go
    * Kotlin / Ioniq / React Native
    * React
    * dll..
-10. Melakukan [test IQ](http://www.do.my.id/testiq/)
+10. Melakukan [test IQ](http://www.do.my.id/testiq/), sebelum melakukan test IQ, kalian wajib untuk login terlebih dahulu di [do my id](http://www.do.my.id/testiq/), setelah login kalian baru bisa untuk melakukan test IQ, selamat mengerjakan
 11. Presensi Kampus Masuk dan Pulang menggunakan bot domyikado
 
 Ada pertanyaan jangan sungkan untuk menghubungi:
