@@ -9,7 +9,7 @@ Target profile yang diraih dari proyek 1 adalah IT implementor. Sehingga yang di
 
 Persiapan:
 1. Jika bergabung dengan repo dosen maka tidak perlu membuat repo organisasi baru. Jika tidak, maka buat repo organisasi baru per client. Pasang webhook di repo tersebut.
-2. Buatlah proyek baru di do.my.id dengan nama : `proyek1_kodedosen_namaproyek` kemudian pasang webhook pada repo organisasi yang sudah dibuat. Gunakan wa group ID dosen pembimbing. Kode dosen bisa dilihat di web prodi.
+2. Buatlah proyek baru di do.my.id dengan nama : `proyek1_kodedosen_namateam` kemudian pasang webhook pada repo organisasi yang sudah dibuat. Gunakan wa group ID dosen pembimbing. Kode dosen bisa dilihat di web prodi.
 3. Silahkan maksimalkan penggunaan tools2 pada asesment sebelumnya untuk mendapatkan nilai maksimal dan membantu proses penilaian dari dosen pembimbing dan penguji sidang.
 
 
