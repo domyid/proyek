@@ -22,6 +22,8 @@ Pembagian kelompok berdasarkan hasil clustering data nilai assesment. Hal ini un
 ## Proses Bimbingan
 
 Bimbingan dilakukan seminggu maksimal 1 kali. Jika sudah 8 kali bimbingan maka sudah memenuhi syarat untuk bisa maju sidang proyek 1. Banyaknya bimbingan maksimal 12 kali, lebih dari itu dianggap bimbingan kurang efektif dan efisien. Proses bimbingan menggunakan menu bimbingan di domyikado.
+1. Untuk bimbingan perdana gunakan menu: Proyek > Assessment
+2. Untuk bimbingan berikutnya gunakan menu: Proyek > Bimbingan
 
 ## Luaran Proyek
 
