@@ -7,6 +7,10 @@ Target profile yang diraih dari proyek 1 adalah IT implementor. Sehingga yang di
 4. Pembuatan laporan, jurnal dan buku di kordinasikan dengan pembimbing.
 5. Pastikan juga bisa menghasilkan uang dari client, nilai uang tidak ada batas minimal. Sepeserpun diterima sebagai bentuk penghargaan terhadap profesionalisme.
 
+Buatlah proyek baru di do.my.id dengan nama : `proyek1_kodedosen_namaproyek`
+
+Kode dosen bisa dilihat di web prodi.
+
 ## Pembagian Kelompok
 
 Pembagian kelompok berdasarkan hasil clustering data nilai assesment. Hal ini untuk memenuhi prinsip adil, mendidik serta mendukung program anti buliying di kampus. Sebagai fakultas vokasi juga, kita melakukan simulasi lingkungan tempat kerja. Dimana lokasi, lingkungan, dan teman kerja ditentukan oleh HRD. Maka dari itu pembentukan kelompok di simulasikan telah di tentukan oleh HRD, tidak mengajukan masing-masing, tapi berdasarkan skor profesionalitas hasil assesment.
