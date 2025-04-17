@@ -37,3 +37,4 @@ Apabila ada pertanyaan teknis bisa menghubungi:
 3. Crowdfunding: gilar +62 853-1292-4192
 4. Test IQ: dafa +62 821-1725-2716
 5. Pomokit: rafi +62 822-5187-3084
+6. Modul Bimbingan: Hamrullah +62 877-0005-3354
