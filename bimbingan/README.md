@@ -3,9 +3,9 @@
 Target profile yang diraih dari proyek 1 adalah IT implementor. Sehingga yang dikerjakan sebagai syarat minimal adalah:
 1. Implementasi pembuatan web real langsung bisa diakses dan memiliki client nyata bukan fiktif dibuktikan dengan syarat minimal Client yang sudah terdaftar di Google Maps, dan situs yang dibuat masuk kedalam profile Google Maps client tersebut.
 2. Melakukan analisis trafik dan GTMetrix setiap minggunya
-3. Satu tim(2 orang) minimal memiliki 2 client sebagai pembanding analisis di laporan Proyek 1. Sehingga laporan berisi hasil analisis perbandingan kedua client tersebut. Serta setiap anggota memegang minimal 1 client yang bertindak sebagai Account Manager.
+3. Setiap anggota memegang minimal 1 client yang bertindak sebagai Account Manager, jika 1 team ada 2 orang maka ada 2 client. Sehingga laporan berisi hasil analisis perbandingan kedua client tersebut.
 4. Pembuatan laporan, jurnal dan buku di kordinasikan dengan pembimbing.
-5. Pastikan juga bisa menghasilkan uang dari client, nilai uang tidak ada batas minimal. Sepeserpun diterima sebagai bentuk penghargaan terhadap profesionalisme.
+5. Pastikan juga bisa menghasilkan insentif dari client, nilai insentif tidak ada batas minimal. Sepeserpun diterima sebagai bentuk penghargaan terhadap profesionalisme. Insentif bisa berupa rupiah dan atau crypto.
 
 Persiapan:
 1. Jika bergabung dengan repo dosen maka tidak perlu membuat repo organisasi baru. Jika tidak, maka buat repo organisasi baru per client. Pasang webhook di repo tersebut.
