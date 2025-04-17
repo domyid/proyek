@@ -5,7 +5,7 @@ Target profile yang diraih dari proyek 1 adalah IT implementor. Sehingga yang di
 2. Melakukan analisis trafik dan GTMetrix setiap minggunya
 3. Setiap anggota memegang minimal 1 client yang bertindak sebagai Account Manager, jika 1 team ada 2 orang maka ada 2 client. Sehingga laporan berisi hasil analisis perbandingan kedua client tersebut.
 4. Pembuatan laporan, jurnal dan buku di kordinasikan dengan pembimbing.
-5. Pastikan juga bisa menghasilkan insentif dari client, nilai insentif tidak ada batas minimal. Sepeserpun diterima sebagai bentuk penghargaan terhadap profesionalisme. Insentif bisa berupa rupiah dan atau crypto. Sisihkan sebagian untuk crowdfunding.
+5. Pastikan juga bisa menghasilkan insentif dari client, nilai insentif tidak ada batas minimal. Sepeserpun diterima sebagai bentuk penghargaan terhadap profesionalisme. Insentif bisa berupa fiat dan atau crypto. Sisihkan sebagian untuk crowdfunding.
 
 Persiapan:
 1. Bergabung atau buat grup wa dengan dosen pembimbing, kemudian minta ke myika grup id nya.
