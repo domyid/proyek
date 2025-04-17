@@ -1,0 +1,22 @@
+# Bimbingan Proyek 1
+
+Target profile yang diraih dari proyek 1 adalah IT implementor. Sehingga yang dikerjakan sebagai syarat minimal adalah:
+1. Implementasi pembuatan web real langsung bisa diakses dan memiliki client nyata bukan fiktif dibuktikan dengan syarat minimal Client yang sudah terdaftar di Google Maps, dan situs yang dibuat masuk kedalam profile Google Maps client tersebut.
+2. Melakukan analisis trafik dan GTMetrix setiap minggunya
+3. Satu tim(2 orang) minimal memiliki 2 client sebagai pembanding analisis di laporan Proyek 1. Sehingga laporan berisi hasil analisis perbandingan kedua client tersebut. Serta setiap anggota memegang minimal 1 client yang bertindak sebagai Account Manager.
+4. Pembuatan laporan, jurnal dan buku di kordinasikan dengan pembimbing.
+
+## Pembagian Kelompok
+
+Pembagian kelompok berdasarkan hasil clustering data nilai assesment. Hal ini untuk memenuhi prinsip adil, mendidik serta mendukung program anti buliying di kampus. Sebagai fakultas vokasi juga, kita melakukan simulasi lingkungan tempat kerja. Dimana lokasi, lingkungan, dan teman kerja ditentukan oleh HRD. Maka dari itu pembentukan kelompok di simulasikan telah di tentukan oleh HRD, tidak mengajukan masing-masing, tapi berdasarkan skor profesionalitas hasil assesment.
+
+## Proses Bimbingan
+
+Bimbingan dilakukan seminggu maksimal 1 kali. Jika sudah 8 kali bimbingan maka sudah memenuhi syarat untuk bisa maju sidang proyek 1. Banyaknya bimbingan maksimal 12 kali, lebih dari itu dianggap bimbingan kurang efektif dan efisien. Proses bimbingan menggunakan menu bimbingan di domyikado.
+
+## Luaran Proyek
+
+Luaran proyek 1:
+1. Laporan Proyek 1 dengan format sesuai dengan yang ada di web if.ulbi.ac.id
+2. Presentasi dan Poster Proyek 1
+3. Buku dan atau Jurnal
