@@ -5,6 +5,7 @@ Target profile yang diraih dari proyek 1 adalah IT implementor. Sehingga yang di
 2. Melakukan analisis trafik dan GTMetrix setiap minggunya
 3. Satu tim(2 orang) minimal memiliki 2 client sebagai pembanding analisis di laporan Proyek 1. Sehingga laporan berisi hasil analisis perbandingan kedua client tersebut. Serta setiap anggota memegang minimal 1 client yang bertindak sebagai Account Manager.
 4. Pembuatan laporan, jurnal dan buku di kordinasikan dengan pembimbing.
+5. Pastikan juga bisa menghasilkan uang dari client, nilai uang tidak ada batas minimal. Sepeserpun diterima sebagai bentuk penghargaan terhadap profesionalisme.
 
 ## Pembagian Kelompok
 
@@ -20,3 +21,12 @@ Luaran proyek 1:
 1. Laporan Proyek 1 dengan format sesuai dengan yang ada di web if.ulbi.ac.id
 2. Presentasi dan Poster Proyek 1
 3. Buku dan atau Jurnal
+
+## Layanan Pertanyaan Teknis
+
+Apabila ada pertanyaan teknis bisa menghubungi:
+1. Strava dan mental health: Dirga +62 822-6889-5372
+2. Tracker dan Google Search Console: Ibrohim +62 823-0713-0592
+3. Crowdfunding: gilar +62 853-1292-4192
+4. Test IQ: dafa +62 821-1725-2716
+5. Pomokit: rafi +62 822-5187-3084
