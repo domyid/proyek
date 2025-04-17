@@ -8,9 +8,10 @@ Target profile yang diraih dari proyek 1 adalah IT implementor. Sehingga yang di
 5. Pastikan juga bisa menghasilkan insentif dari client, nilai insentif tidak ada batas minimal. Sepeserpun diterima sebagai bentuk penghargaan terhadap profesionalisme. Insentif bisa berupa rupiah dan atau crypto. Sisihkan sebagian untuk crowdfunding.
 
 Persiapan:
-1. Jika bergabung dengan repo dosen maka tidak perlu membuat repo organisasi baru. Jika tidak, maka buat repo organisasi baru per client. Pasang webhook di repo tersebut.
-2. Buatlah proyek baru di do.my.id dengan nama : `proyek1_kodedosen_namateam` kemudian pasang webhook pada repo organisasi yang sudah dibuat. Gunakan wa group ID dosen pembimbing. Kode dosen bisa dilihat di web prodi.
-3. Silahkan maksimalkan penggunaan tools2 pada asesment sebelumnya untuk mendapatkan nilai maksimal dan membantu proses penilaian dari dosen pembimbing dan penguji sidang.
+1. Bergabung atau buat grup wa dengan dosen pembimbing, kemudian minta ke myika grup id nya.
+2. Jika bergabung dengan repo dosen maka tidak perlu membuat repo organisasi baru. Jika tidak, maka buat repo organisasi baru per client. Pasang webhook di repo tersebut.
+3. Buatlah proyek baru di do.my.id dengan nama : `proyek1_kodedosen_namateam` kemudian pasang webhook pada repo organisasi yang sudah dibuat. Gunakan wa group ID dosen pembimbing. Kode dosen bisa dilihat di web prodi.
+4. Silahkan maksimalkan penggunaan tools2 pada asesment sebelumnya untuk mendapatkan nilai maksimal dan membantu proses penilaian dari dosen pembimbing dan penguji sidang.
 
 
 
