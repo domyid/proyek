@@ -1,4 +1,4 @@
-# Bimbingan Proyek 1
+# Kartu Bimbingan(Kambing): Proyek 1
 
 Target profile yang diraih dari proyek 1 adalah IT implementor. Sehingga yang dikerjakan sebagai syarat minimal adalah:
 1. Implementasi pembuatan web real langsung bisa diakses dan memiliki client nyata bukan fiktif dibuktikan dengan syarat minimal Client yang sudah terdaftar di Google Maps, dan situs yang dibuat masuk kedalam profile Google Maps client tersebut.
